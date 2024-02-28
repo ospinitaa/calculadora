@@ -29,6 +29,15 @@ function sumar(num1, num2) {
       }
 
 
+       //funcion para exponer dos numeros
+       function raizCuadrada(num1) {
+       return Math.sqrt(num1);
+
+       }
+        
+
+
+
 
   
   // Función principal del programa
