@@ -17,6 +17,14 @@ function sumar(num1, num2) {
     function dividir(num1, num2) {
         return num1 / num2;
       }
+
+       //funcion para factorizar dos numeros
+    function factorial(num1, num2) {
+        return 2= num1 * num2;
+      }
+
+
+
   
   // Función principal del programa
   function calculadora() {
