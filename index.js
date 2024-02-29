@@ -23,7 +23,7 @@ function sumar(num1, num2) {
         return 2= num1 * num2;
       }
 
-       //funcion para exponer dos numeros
+       //funcion para exponer un numero
        function exponente(num1, exponenteNum) {
         resultado = exponente(num1 * exponenteNum);
       }
