@@ -29,7 +29,7 @@ function sumar(num1, num2) {
       }
 
 
-       //funcion para exponer dos numeros
+       //funcion para sacar la raiz 
        function raizCuadrada(num1) {
        return Math.sqrt(num1);
 
